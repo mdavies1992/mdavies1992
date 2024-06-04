@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Davies</h1>
-<h3 align="center">A passionate Full stack developer from the United Kingdom, currently residing in and looking to relocate to Japan</h3>
+<h3 align="center">A passionate Full stack developer from the United Kingdom, currently residing in Japan</h3>
 
 - 🔭 I’m currently working on [GodMaker, a web app to generate divine entities for fantasy worlds and games.](https://github.com/mdavies1992/GodMaker)
 
