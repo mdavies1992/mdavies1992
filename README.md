@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [God-Forge, a web app to generate divine entities for fantasy worlds and games.](https://github.com/mdavies1992/GodMaker)
 
-- 📫 How to reach me **m.davies.work@gmail.com**
+- 📫 Reach me on my e-mail **m.davies.work@gmail.com**
+
+- 📑 Find my Portfolio here: **https://matthew-davies-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
