@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Matt Davies</h1>
-<h3 align="center">A passionate Full stack developer from the United Kingdom, currently residing in Japan</h3>
+<h1 align="center">Hi there!👋, I'm Matt Davies</h1>
+<h3 align="center">I'm a passionate Full stack developer from the United Kingdom, currently residing in Japan</h3>
 
 - 📖 Currently studying and working on improving my skills with Ruby on Rails, and looking into learning Python & Go!
 
 - 🔭 I’m currently working on [God-Forge, a web app to generate divine entities for fantasy worlds and games.](https://github.com/mdavies1992/GodMaker)
 
-- 📫 Reach me on my e-mail **m.davies.work@gmail.com**
+- 📫 Reach me on my e-mail here: **m.davies.work@gmail.com** or find me on LinkedIn, here: https://www.linkedin.com/in/matthew-c-davies
 
-- 📑 Find my Portfolio here: **https://matthew-davies-portfolio.netlify.app/**
+- 📑 Find my Portfolio & Links to my hosted work here: **https://matthew-davies-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
