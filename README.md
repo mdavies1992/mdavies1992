@@ -3,7 +3,7 @@
 
 - 📖 Currently studying and working on improving my skills with Ruby on Rails, and looking into learning Python & Go!
 
-- 🔭 I’m currently working on [God-Forge, a web app to generate divine entities for fantasy worlds and games.](https://github.com/mdavies1992/GodMaker)
+- 🔭 I’m currently working on [God-Forge, a web app to generate divine entities for fantasy worlds and games.]([https://github.com/mdavies1992/GodMaker](https://god-forge-c331450ddfc0.herokuapp.com/))
 
 - 📫 Reach me on my e-mail here: **m.davies.work@gmail.com** or find me on LinkedIn, here: https://www.linkedin.com/in/matthew-c-davies
 
