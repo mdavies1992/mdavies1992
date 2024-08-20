@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋, I'm Matt Davies</h1>
 <h3 align="center">I'm a passionate Full-stack developer from the United Kingdom, currently residing in Japan</h3>
 
-- 📖 Currently studying and improving my skills with Ruby on Rails, and looking into learning Python & Go for more back-end knowledge!
+- 📖 Currently studying and improving my skills with Ruby on Rails, and learning Python & Go for more back-end knowledge!
 
 - 🔭 My Latest project was [God-Forge, a web app to generate divine entities for fantasy worlds and games.](https://god-forge-c331450ddfc0.herokuapp.com/)! Give it a look if you like TTRPGs, any feedback is welcomed!
 
